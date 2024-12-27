@@ -1,2 +1,2 @@
-# GraphQLDemo
-Taht's a DEMO app Full app will be uploaded soon
+> [!WARNING]
+> Taht's a DEMO App the Full app will be uploaded soon!
